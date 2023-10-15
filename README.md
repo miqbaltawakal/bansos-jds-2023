@@ -1,6 +1,6 @@
 # bansos-jds-2023
 
-## Making a simple web in JDS recruitment as Software Frontend Engineer
+Making a simple web in JDS recruitment as Software Frontend Engineer
 
 ## Project setup
 ```
